@@ -24,7 +24,7 @@ public class UtilidadesTest {
 		// Recorrer array y comprobar todo true
 		for (int i = 0; i < aResultado.length; i++) {
 			assertTrue(aResultado[i]);
-
+			// También existe assertFalse();
 		}
 	}
 
